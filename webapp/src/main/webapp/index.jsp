@@ -1,7 +1,7 @@
 <form action="action_page.php">
   <div class="container">
     <h1> We love learning devops. Welcome to Devops </h1>
-    <p>Please fill in this form to create an account.</p>
+    <p>Please fill in this form to create your account.</p>
     <hr>
      
     <label for="Name"><b>Enter Name</b></label>
@@ -31,7 +31,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thank You so much !! This is Aryan Deepak  </h1>
+   <h1> Thank You so much !! This is Aryan Deepak Lagad </h1>
    <h1> See You Again </h1>
   
 </form>
